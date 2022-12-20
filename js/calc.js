@@ -11,6 +11,7 @@ window.onload = function () {
 		}
 	}
 
+	// clear values
 	clear.onclick = function () {
 		result.innerHTML = "";
 	};
