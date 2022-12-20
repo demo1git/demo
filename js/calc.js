@@ -15,6 +15,7 @@ window.onload = function () {
 		result.innerHTML = "";
 	};
 
+	// added value
 	function addValue(i) {
 		return function () {
 			if (buttons[i].innerHTML === "÷") {
